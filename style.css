@@ -26,27 +26,28 @@ main{
     max-width: 1000px;
     margin: auto;
     padding: 20px;
-    ;
-    margin-bottom: 0px;
-    
+    margin-bottom: 0px; 
 }
+
 main p{
     margin: 15px 0px ;
     text-align: justify;
     line-height: 25px;
 }
+
 h1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 20px;
     padding-bottom: 0px;
     color:#1D373D;
-   ;
 }
+
 .h1-principal{
     padding-bottom: 0px;
     font-size: 40px;
 }
-p {
+
+p{
     padding: 20px;
     padding-top: 0px;
     text-align: justify;
@@ -63,17 +64,21 @@ aside{
     border-radius: 10px;
     background-color: #94ccdb;
 }
+
 aside > ul{
     list-style-position: inside;
     columns: 2;
 }
+
 li{
     padding: 5px;
 }
+
 aside>p{
     padding-left: 20px;
     padding-top: 0px;
 }
+
 footer{
     background-color: #0B333D;
     padding: 20px;
